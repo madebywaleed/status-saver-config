@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sources": {
+    "wa": {
+      "label": "WhatsApp",
+      "packageName": "com.whatsapp",
+      "folders": [
+        "Android/media/com.whatsapp/WhatsApp/Media/.Statuses",
+        "WhatsApp/Media/.Statuses"
+      ]
+    },
+    "biz": {
+      "label": "WA Business",
+      "packageName": "com.whatsapp.w4b",
+      "folders": [
+        "Android/media/com.whatsapp.w4b/WhatsApp Business/Media/.Statuses",
+        "WhatsApp Business/Media/.Statuses"
+      ]
+    }
+  },
+  "imageExtensions": ["jpg", "jpeg", "png", "webp"],
+  "videoExtensions": ["mp4", "3gp", "mkv", "webm"]
+}
